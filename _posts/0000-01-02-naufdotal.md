@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+
+![kono dio da](https://www.myinstants.com/media/instants_images/dio.PNG)
+kono dio da
